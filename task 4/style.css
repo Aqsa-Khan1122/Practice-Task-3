@@ -1,0 +1,17 @@
+div{
+    background-color: #0f1111;
+    height: 60px;
+    margin: 0px;
+    padding: 0px;
+}
+#navbar{
+    size: 25px;
+    color: #f08804;
+}
+button{
+   background-color:#f08804;
+}
+a{
+    color: aliceblue;
+    margin-right: 200px;
+}
